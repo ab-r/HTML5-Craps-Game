@@ -1,0 +1,10 @@
+This is an html5 implemetation of a craps game.
+
+Rules of the game:
+
+The player throws a pair of dice.
+The sum of the two top faces is what matters.
+If the player  throws a 7 or 11 on the first throw, he/she wins.
+If the sum is 2, 3 or 12, he/she loses.
+
+In all other cases, the sum is recorded as the player's point, and follow up throw is required. On follow up throws, a throw of 7 loses, and a throw of player's point wins. For anything else, the game continues with followup throw rules.
